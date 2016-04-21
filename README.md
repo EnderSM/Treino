@@ -3,5 +3,5 @@
 ###Versão###
 ***1.0***
 ...
-###Auto###
+###Autor###
 ***Ender da Silva Matos*** 
