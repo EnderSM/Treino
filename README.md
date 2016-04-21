@@ -2,3 +2,6 @@
 **1 Encontro de Informática do Instituto Federal de Rondônia**
 ###Versão###
 ***1.0***
+...
+###Auto###
+***Ender da Silva Matos*** 
